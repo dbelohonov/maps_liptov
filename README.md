@@ -2,7 +2,7 @@
 
 git clone https://github.com/dbelohonov/maps_liptov.git .
 
-## Создание виртуального окружения
+## Virtual environment (venv) setting
 
 ```bash
 python --version
